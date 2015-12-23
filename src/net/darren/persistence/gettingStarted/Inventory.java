@@ -63,4 +63,7 @@ public class Inventory {
         return vendorPrice;
     }
 
+    public void setVendor(String s) {
+        this.vendor = s;
+    }
 }
